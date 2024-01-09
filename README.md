@@ -2,42 +2,52 @@
 
 In this archive, I want to cover various topics, started from the list below:
 
+## Foundations
+
+- [x] Numpy Library
+- [x] Matplotlib Library
+- [ ] Panda Library
+
 ## Supervised Learning
 
-- Linear Regression
-- Logistic Regression
-- Regularization
-- Gradient Descent
-
-## Ensemble Learning
-
-- Decision Trees and Random Forests
+- [x] Linear Regression
+- [x] Gradient Descent
+- [ ] Logistic Regression
+- [ ] Decision Trees
+- [ ] Random Forest
+- [ ] XGBoost
 
 ## Unsupervised Learning
 
-- K-Means Clustering
-- Anomaly Detection
-- Recommender Systems (Collaborative Filtering, Content-Based)
+- [ ] K-Means Clustering
+- [ ] Anomaly Detection
 
 ## Deep Learning Foundations
 
-- Introduction to Neural Networks
-- TensorFlow Basics
-
-## Hyperparameter Tuning and Optimization
-
-- Hyperparameter Tuning
-- Optimization Algorithms (Gradient Checking, Mini-Batch Gradient Descent, Momentum, RMSprop, Adam)
-
-## Sequence Models
-
-- Recurrent Neural Networks and Variants
-- Natural Language Processing (Introduction, Word Embeddings, HuggingFace)
+- [ ] Neural Networks Basics
+- [ ] Backpropagation
+- [ ] Activition Functions
+- [ ] Multiclass Classification
+- [ ] Transfer Learning
+- [ ] Regularization
 
 ## Convolutional Neural Networks
 
-- CNN Basics
-- Computer Vision with CNNs (Visual Recognition, Neural Style Transfer)
+- [ ] CNN Basics
+- [ ] Computer Vision
+
+## Recurrent Neural Networks
+
+- [ ] RNN Basics
+- [ ] GRU
+- [ ] LSTM
+- [ ] Attention Models
+- [ ] NLP
+
+# Disclaimer
+
+I do not gurantee any of the subject discussed in the notebooks. It's based on my understanding from different courses that I have watched and they might be wrong.
+And for the paid resources, I try to not directly use any of their content, for the privacy of the courses. If you're looking for the exact content, please reach out to the original resource.
 
 # Contribution
 
