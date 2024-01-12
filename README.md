@@ -31,6 +31,16 @@ In this archive, I want to cover various topics, started from the list below:
 - [ ] Transfer Learning
 - [ ] Regularization
 
+## Recommender Systems
+
+- [ ] Collaborative Systems
+- [ ] Content Based Recommender Systems
+
+## Reinforcement Learning
+
+- [ ] Markov Decision
+- [ ] Advanced RL
+
 ## Convolutional Neural Networks
 
 - [ ] CNN Basics
