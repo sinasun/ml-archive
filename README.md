@@ -12,7 +12,7 @@ In this archive, I want to cover various topics, started from the list below:
 
 - [x] Linear Regression
 - [x] Gradient Descent
-- [ ] Logistic Regression
+- [x] Logistic Regression
 - [ ] Decision Trees
 - [ ] Random Forest
 - [ ] XGBoost
